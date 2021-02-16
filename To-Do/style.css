@@ -1,0 +1,34 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+    background-color: #F8F8F8 !important;
+}
+
+.main {
+  width: auto;
+  height: auto;
+
+}
+
+p{
+    font-family:'Hammersmith One', sans-serif;
+    font-size: 2vw;
+}
+
+.btn:focus,input:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.but{
+  flex: right;
+  background-color: rgb(255, 0, 0);
+  font-size: 20px;
+  margin-left: 50px;
+  padding-left: 3px;
+  padding-right: 3px;
+  border-radius: 5px;
+}
